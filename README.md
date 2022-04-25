@@ -1,6 +1,8 @@
 # Testprogramm-fuer-Manikin-WiFi-Library
 Testprogramm für Manikin WiFi Library
 
+Alle Dateien befinden sich auch in TestTool.zip
+
 start.bat startet die beiden Scripts TestClient.py und TestServer.py, sowie ein CMD-Fenster mit Netstat, zum überprüfen der TCP-Verbindung.
 start.bat muss nicht als Administrator gestartet werden, das Script fragt engenständig nach Admin-Rechten.
 
